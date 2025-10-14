@@ -2,7 +2,7 @@
 
 🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
 🎯 **Pós-Graduação:** Ciências de Dados e Inteligência Artificial  
-💻 **Atualmente estudando:** Desenvolvimento Web e Programação em geral  
+💻 **Atualmente estudando:** Analise de dados e Desenvolvimento Full stack.
 
 ---
 
