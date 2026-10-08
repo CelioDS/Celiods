@@ -1,61 +1,111 @@
-# 👨‍💻 Célio da Silva
+# 👋 Olá, eu sou Célio da Silva
 
-## Sobre mim
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-Profissional de Tecnologia com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Ciência de Dados e Inteligência Artificial.
+🎯 Pós-graduação em Ciência de Dados e Inteligência Artificial
 
-Atuo no desenvolvimento de soluções Web, Dashboards Executivos, Análise de Dados, Business Intelligence e Automação de Processos.
+💼 Desenvolvedor Full Stack | Análise de Dados | BI | IA
 
-Possuo experiência em:
-
-- Desenvolvimento Full Stack
-- Ciência de Dados
-- Inteligência Artificial
-- Business Intelligence (BI)
-- Forecast e Planejamento Comercial
-- Dashboards Corporativos
-- Automação de Processos
-- APIs e Integrações
-
----
-
-## 🚀 Tecnologias
-
-### Front-end
-
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
-
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5
-
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3
-
-### Back-end
-
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js
-
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python
-
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php
-
-### Banco de Dados
-
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql
-
-### Ferramentas
-
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git
-
-https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code
+🚀 Atualmente focado em Dashboards Corporativos, Forecast, Automação de Processos e Ciência de Dados.
 
 ---
 
 ## 📊 Estatísticas GitHub
 
-https://github-readme-stats.vercel.app/api?username=celiods&show_icons=true&theme=tokyonight
+<div align="center">
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=celiods&layout=compact&theme=tokyonight
+https://github-readme-stats.vercel.app/api?username=celiods&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=celiods&layout=compact&langs_count=8&theme=tokyonight
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+
+<p>
+
+https://skillicons.dev/icons?i=html
+https://skillicons.dev/icons?i=css
+https://skillicons.dev/icons?i=javascript
+https://skillicons.dev/icons?i=react
+
+</p>
+
+### Back-end
+
+<p>
+
+https://skillicons.dev/icons?i=nodejs
+https://skillicons.dev/icons?i=python
+https://skillicons.dev/icons?i=php
+
+</p>
+
+### Banco de Dados
+
+<p>
+
+https://skillicons.dev/icons?i=mysql
+
+</p>
+
+### Ferramentas
+
+<p>
+
+https://skillicons.dev/icons?i=git
+https://skillicons.dev/icons?i=vscode
+https://skillicons.dev/icons?i=github
+
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+📈 Dashboards Comerciais
+
+📊 Forecast e Planejamento Comercial
+
+🤖 Inteligência Artificial para Apoio à Decisão
+
+🐍 Automações Python
+
+⚡ APIs Node.js + MySQL
+
+📉 Análises Estatísticas e Ciência de Dados
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+https://github-profile-trophy.vercel.app/?username=celiods&theme=tokyonight&row=1&column=7
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+https://github-readme-activity-graph.vercel.app/graph?username=celiods&theme=tokyo-night
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  https://raw.githubusercontent.com/celiods/celiods/output/github-contribution-grid-snake.svg
+</p>
 
 ---
 
@@ -67,8 +117,32 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=celiods&layout=co
 
 ## 📫 Contato
 
-- E-mail: celio01t@gmail.com
-- LinkedIn: https://linkedin.com/in/célio-da-silva-3b20131b7
+📧 celio01t@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/célio-da-silva-3b20131b7
+
+🌐 Portfólio:
+https://celiotech.netlify.app
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou apaixonado por tecnologia, desenvolvimento de software, análise de dados e inteligência artificial.
+
+Tenho experiência na construção de:
+
+- Dashboards Executivos
+- Sistemas Web
+- APIs REST
+- Automações Python
+- Processamento de Dados
+- Business Intelligence
+- Forecast Comercial
+- Soluções baseadas em IA
+
+Sempre buscando transformar dados em decisões e ideias em soluções.
 
 ---
 
