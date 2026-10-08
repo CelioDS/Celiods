@@ -46,5 +46,9 @@
 </div>
 
 ---
+## 🐍 Snake dos Commits
 
+<p align="center">
+  https://raw.githubusercontent.com/celiods/celiods/output/github-contribution-grid-snake-dark.svg
+</p>
 ⭐ _“Sempre aprendendo, sempre evoluindo.”_
